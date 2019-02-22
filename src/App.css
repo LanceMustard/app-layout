@@ -1,3 +1,10 @@
+@import '~antd/dist/antd.css';
+
+html,body {
+  height:100%;
+}
+
+/* 
 .App {
   text-align: center;
 }
@@ -30,4 +37,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
